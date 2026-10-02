@@ -14,7 +14,7 @@ A fictional UAE employer, Gulf Professional Services PJSC, wants to buy a third-
 
 | # | Document | What it does |
 |---|---|---|
-| 01 | [AI Use Case Registration](01%20-%20AI%20Use%20case.pdf) | Records the business need, the proposed system and its boundaries before any assessment starts |
+| 01 | [AI Use Case Registration](01%20-%20AI%20Use%20Case%20Registration.pdf) | Records the business need, the proposed system and its boundaries before any assessment starts |
 | 02 | [AI Impact Assessment](02%20-%20AI%20Impact%20Assessment.pdf) | Identifies who is affected and how seriously. Overall impact rating: High |
 | 03 | [AI Risk Register](03%20-%20AI%20Risk%20Register.pdf) and [Excel workbook](03b%20-%20AI%20Risk%20Register%20Recruitment%20Screening.xlsx) | Turns the impacts into 12 owned, scored risks (3 Critical, 9 High before controls), each with a treatment and an approval gate |
 | 04 | [Regulatory Applicability Assessment](04%20-%20Regulatory%20Applicability%20Assessment.pdf) | Tests how the EU AI Act, UAE PDPL, DIFC rules and the UAE AI Charter apply, and lists the facts still missing |
